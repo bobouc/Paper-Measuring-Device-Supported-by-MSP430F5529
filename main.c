@@ -346,11 +346,7 @@ int main( void )
         temp=temm[3];
         printf("%lu\n",temp);
         delay_ms(50);
-    
-    
-    }
-        
-        
-     }
+    }           
+}
 
 
